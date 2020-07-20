@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "516347957406",
+    "firebase_url": "https://yimi-delivery.firebaseio.com",
+    "project_id": "yimi-delivery",
+    "storage_bucket": "yimi-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516347957406:android:3bfc60f585ec5ea825ab8f",
+        "android_client_info": {
+          "package_name": "com.kio.yimidelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516347957406-ua5q4mrhg7jcev73fh6a54mulqttt9v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNOcAdhLov-h8lFELNpXREDpxb24lZ_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516347957406-ua5q4mrhg7jcev73fh6a54mulqttt9v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
